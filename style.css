@@ -1,0 +1,44 @@
+body{
+    background-color: pink;
+       height: 100vh;
+}
+.ab{
+    height: 250px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    margin-left: 17%;
+    margin-top: 9%;
+
+}
+.as{
+ text-align: center;
+ text-transform: capitalize;
+ font-family: 'Courier New', Courier, monospace;
+}
+.btn1{
+    height: 40px;
+    width: 65px;
+    margin-left: 34%;
+    font-weight: 600;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 5px 8px;
+
+}
+.btn1:hover{
+    background-color: pink;
+}
+
+.btn{
+    height: 40px;
+    width: 65px;
+    margin-left: 20px;
+    font-weight: 600;
+    border:none;
+    border-radius: 20px;
+    box-shadow: 2px 5px 8px;
+}
+.btn:hover{
+    background-color: pink;
+}
